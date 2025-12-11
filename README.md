@@ -58,12 +58,42 @@ Meu objetivo é me tornar um desenvolvedor completo, com código limpo, organiza
 
 ---
 
-## 📊 Estatísticas do meu GitHub
+## ⚡ Minhas Skills — Estatística do que eu sei
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Rian-dev-cod&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rian-dev-cod&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="left">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/> &nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring"/> &nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgres"/> &nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/> &nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"/> &nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/> &nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"/> &nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS"/> &nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
 </p>
+
+| Linguagem / Ferramenta | Nível |
+|---|---:|
+| ☕ Java               | ![Java](https://img.shields.io/badge/Java-90%25-brightgreen) |
+| 🍃 Spring Boot       | ![Spring](https://img.shields.io/badge/Spring%20Boot-85%25-brightgreen) |
+| 🐘 PostgreSQL        | ![Postgres](https://img.shields.io/badge/PostgreSQL-75%25-green) |
+| 🗄️ MySQL             | ![MySQL](https://img.shields.io/badge/MySQL-65%25-yellowgreen) |
+| 🐳 Docker            | ![Docker](https://img.shields.io/badge/Docker-60%25-yellow) |
+| 🔧 Maven             | ![Maven](https://img.shields.io/badge/Maven-70%25-yellowgreen) |
+| 🔐 Spring Security   | ![Security](https://img.shields.io/badge/Security-70%25-yellowgreen) |
+| 🧪 JUnit / Mockito   | ![Tests](https://img.shields.io/badge/Testing-65%25-yellow) |
+| 🌐 HTML / CSS / JS   | ![Frontend](https://img.shields.io/badge/HTML%2F%20CSS%2FJS-50%25-lightgrey) |
+| 🔀 Git / GitHub      | ![Git](https://img.shields.io/badge/Git-75%25-green) |
+
+---
+
+### 📊 Estatísticas gerais do GitHub
+<p align="center">
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=Rian-dev-cod&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rian-dev-cod&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
 
 ---
 
