@@ -8,9 +8,7 @@
 ---
 
 ## 👨‍💻 Sobre mim
-Sou desenvolvedor Java com foco no que o mercado realmente usa: APIs organizadas, tecnologias modernas, boas práticas, arquitetura limpa e desenvolvimento backend robusto.  
-Estudo Engenharia de Software e aprimoro constantemente minhas habilidades para atuar em equipes profissionais e construir soluções escaláveis e de alta qualidade.
-
+Sou desenvolvedor Java com foco no que o mercado realmente usa: APIs organizadas, tecnologias modernas, boas práticas, arquitetura limpa e desenvolvimento backend robusto. Estudo Engenharia de Software e aprimoro constantemente minhas habilidades para atuar em equipes profissionais e construir soluções escaláveis e de alta qualidade.
 Meu objetivo é me tornar um desenvolvedor completo, com código limpo, organizado e alinhado com padrões adotados pelas empresas.
 
 ---
