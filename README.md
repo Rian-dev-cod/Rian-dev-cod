@@ -1,80 +1,84 @@
-<h1 align="center">Olá! 👋 Eu sou o Rian Arruda Costa</h1>
+<h1 align="center">👋 Olá! Eu sou o Rian Arruda Costa</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Java • Backend • APIs • Sistemas Desktop</strong><br>
+  <strong>Desenvolvedor Java • Backend • APIs • Focado em Mercado</strong><br>
   Brasília – DF • <a href="mailto:riancosta816@gmail.com">riancosta816@gmail.com</a>
 </p>
 
 ---
 
-## 🧑‍💻 Sobre mim
-Sou estudante de Engenharia de Software e desenvolvedor focado em **Java**, criando APIs profissionais com **Spring Boot**, segurança com **JWT**, integração com **pagamentos (Mercado Pago)**, cálculo de **frete (Melhor Envio)** e sistemas comerciais completos, incluindo **carrinho, pedidos e controle de estoque**.
+## 👨‍💻 Sobre mim
+Sou desenvolvedor Java com foco no que o mercado realmente usa: APIs organizadas, tecnologias modernas, boas práticas, arquitetura limpa e desenvolvimento backend robusto.  
+Estudo Engenharia de Software e aprimoro constantemente minhas habilidades para atuar em equipes profissionais e construir soluções escaláveis e de alta qualidade.
 
-Gosto de resolver problemas reais construindo soluções robustas, bem estruturadas e organizadas. Atualmente estou desenvolvendo um sistema comercial completo para portfólio e estudo aprofundado.
-
----
-
-## 🚀 Tecnologias que eu domino
-
-### 🟦 Backend
-- Java 17  
-- Spring Boot 3 (Web, Security, Data JPA)  
-- Spring Security / JWT  
-- Hibernate / JPA  
-- APIs REST profissionais  
-- Validações, Exceptions e boas práticas  
-
-### 🟪 Banco de Dados
-- PostgreSQL  
-- MySQL  
-- Flyway / Migrations  
-
-### 🟥 Pagamentos & Integrações
-- Mercado Pago (Pix, Cartão, Checkout Pro, Webhooks)  
-- Melhor Envio (Cálculo de frete integrado ao pedido)  
-
-### 🟨 Ferramentas & DevOps
-- Docker  
-- Maven  
-- Git / GitHub / GitFlow  
-
-### 🟩 Desktop (quando necessário)
-- JavaFX  
-- Swing  
-
-### 🟧 Front básico
-- HTML, CSS, JavaScript  
+Meu objetivo é me tornar um desenvolvedor completo, com código limpo, organizado e alinhado com padrões adotados pelas empresas.
 
 ---
 
-## 📈 Estatísticas do meu GitHub
+## 🚀 Linguagens que utilizo
 
-<p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=Rian-dev-cod&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rian-dev-cod&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="left">
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
 </p>
 
 ---
 
-## 🛠️ Projetos principais
+## 🧰 Ferramentas e Tecnologias
 
-### 🔹 **Sistema de Gestão Comercial (API completa)**
-- Autenticação JWT  
-- Carrinho, Pedido, Pagamento  
-- Integração Pix / Cartão / Checkout Pro  
-- Cálculo de Frete (Melhor Envio)  
-- Controle de Estoque  
-- Múltiplas imagens por produto  
+### 🟦 Backend
+<p>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache"/>
+</p>
 
-🔗 *Link do repositório:*  
-https://github.com/Rian-dev-cod/gestaocomercial
+### 🟧 Banco de Dados
+<p>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/>
+</p>
+
+### 🟩 DevOps & Ferramentas
+<p>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven"/>
+</p>
 
 ---
 
-## 📬 Como falar comigo
+## 📊 Estatísticas do meu GitHub
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Rian-dev-cod&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rian-dev-cod&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 O que estou estudando atualmente
+- Arquitetura limpa (Clean Architecture)  
+- BOAS PRÁTICAS usadas no mercado (SOLID, DTOs, Services bem definidos)  
+- Testes automatizados com JUnit & Mockito  
+- Otimização de APIs e padrões de projeto para backend  
+
+---
+
+## 📬 Contato
 <p>
   <a href="mailto:riancosta816@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Rian-dev-cod">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -83,4 +87,4 @@ https://github.com/Rian-dev-cod/gestaocomercial
 
 ---
 
-<p align="center">🔥 Sempre buscando aprender, evoluir e construir sistemas sólidos e profissionais</p>
+<p align="center"><strong>Construindo um perfil sólido, alinhado ao mercado e com foco em evolução constante.</strong></p>
