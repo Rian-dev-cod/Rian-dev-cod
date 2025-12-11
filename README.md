@@ -78,21 +78,11 @@ Meu objetivo é me tornar um desenvolvedor completo, com código limpo, organiza
 | 🍃 Spring Boot       | ![Spring](https://img.shields.io/badge/Spring%20Boot-85%25-brightgreen) |
 | 🐘 PostgreSQL        | ![Postgres](https://img.shields.io/badge/PostgreSQL-75%25-green) |
 | 🗄️ MySQL             | ![MySQL](https://img.shields.io/badge/MySQL-65%25-yellowgreen) |
-| 🐳 Docker            | ![Docker](https://img.shields.io/badge/Docker-60%25-yellow) |
+| 🐳 Docker            | ![Docker](https://img.shields.io/badge/Docker-40%25-yellow) |
 | 🔧 Maven             | ![Maven](https://img.shields.io/badge/Maven-70%25-yellowgreen) |
-| 🔐 Spring Security   | ![Security](https://img.shields.io/badge/Security-70%25-yellowgreen) |
 | 🧪 JUnit / Mockito   | ![Tests](https://img.shields.io/badge/Testing-65%25-yellow) |
 | 🌐 HTML / CSS / JS   | ![Frontend](https://img.shields.io/badge/HTML%2F%20CSS%2FJS-50%25-lightgrey) |
 | 🔀 Git / GitHub      | ![Git](https://img.shields.io/badge/Git-75%25-green) |
-
----
-
-### 📊 Estatísticas gerais do GitHub
-<p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=Rian-dev-cod&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rian-dev-cod&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
 
 
 ---
