@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Desenvolvedor Java • Backend • APIs • Focado em Mercado</strong><br>
-  Brasília – DF • <a href="mailto:riancosta816@gmail.com">riancosta816@gmail.com</a>
+  Campos Belos - GO • <a href="mailto:riancosta816@gmail.com">riancosta816@gmail.com</a>
 </p>
 
 ---
@@ -79,7 +79,6 @@ Meu objetivo é me tornar um desenvolvedor completo, com código limpo, organiza
 | 🐳 Docker            | ![Docker](https://img.shields.io/badge/Docker-40%25-yellow) |
 | 🔧 Maven             | ![Maven](https://img.shields.io/badge/Maven-70%25-yellowgreen) |
 | 🧪 JUnit / Mockito   | ![Tests](https://img.shields.io/badge/Testing-65%25-yellow) |
-| 🌐 HTML / CSS / JS   | ![Frontend](https://img.shields.io/badge/HTML%2F%20CSS%2FJS-50%25-lightgrey) |
 | 🔀 Git / GitHub      | ![Git](https://img.shields.io/badge/Git-75%25-green) |
 
 
@@ -106,3 +105,4 @@ Meu objetivo é me tornar um desenvolvedor completo, com código limpo, organiza
 ---
 
 <p align="center"><strong>Construindo um perfil sólido, alinhado ao mercado e com foco em evolução constante.</strong></p>
+
