@@ -18,11 +18,6 @@ Meu objetivo é me tornar um desenvolvedor completo, com código limpo, organiza
 <p align="left">
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
   &nbsp;&nbsp;
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"/>
-  &nbsp;&nbsp;
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS"/>
-  &nbsp;&nbsp;
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
 </p>
 
 ---
@@ -65,9 +60,6 @@ Meu objetivo é me tornar um desenvolvedor completo, com código limpo, organiza
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/> &nbsp;
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"/> &nbsp;
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/> &nbsp;
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"/> &nbsp;
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS"/> &nbsp;
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
 </p>
 
 | Linguagem / Ferramenta | Nível |
@@ -105,4 +97,5 @@ Meu objetivo é me tornar um desenvolvedor completo, com código limpo, organiza
 ---
 
 <p align="center"><strong>Construindo um perfil sólido, alinhado ao mercado e com foco em evolução constante.</strong></p>
+
 
