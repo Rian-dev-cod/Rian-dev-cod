@@ -66,9 +66,9 @@ Meu objetivo é me tornar um desenvolvedor completo, com código limpo, organiza
 |---|---:|
 | ☕ Java               | ![Java](https://img.shields.io/badge/Java-90%25-brightgreen) |
 | 🍃 Spring Boot       | ![Spring](https://img.shields.io/badge/Spring%20Boot-85%25-brightgreen) |
-| 🐘 PostgreSQL        | ![Postgres](https://img.shields.io/badge/PostgreSQL-75%25-green) |
-| 🗄️ MySQL             | ![MySQL](https://img.shields.io/badge/MySQL-65%25-yellowgreen) |
-| 🐳 Docker            | ![Docker](https://img.shields.io/badge/Docker-40%25-yellow) |
+| 🐘 PostgreSQL        | ![Postgres](https://img.shields.io/badge/PostgreSQL-85%25-green) |
+| 🗄️ MySQL             | ![MySQL](https://img.shields.io/badge/MySQL-85%25-yellowgreen) |
+| 🐳 Docker            | ![Docker](https://img.shields.io/badge/Docker-70%25-yellow) |
 | 🔧 Maven             | ![Maven](https://img.shields.io/badge/Maven-70%25-yellowgreen) |
 | 🧪 JUnit / Mockito   | ![Tests](https://img.shields.io/badge/Testing-65%25-yellow) |
 | 🔀 Git / GitHub      | ![Git](https://img.shields.io/badge/Git-75%25-green) |
@@ -97,5 +97,6 @@ Meu objetivo é me tornar um desenvolvedor completo, com código limpo, organiza
 ---
 
 <p align="center"><strong>Construindo um perfil sólido, alinhado ao mercado e com foco em evolução constante.</strong></p>
+
 
 
