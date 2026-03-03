@@ -1,5 +1,5 @@
 
-# 👋 Rian Arruda Costa
+# | Rian Arruda Costa
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%7C+APIs+REST;Segurança+com+JWT+e+Spring+Security" />
@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 Sobre Mim
+## | Sobre Mim
 
 Sou desenvolvedor backend com foco em **Java e Spring Boot**, desenvolvendo APIs REST seguras, organizadas e alinhadas com boas práticas de mercado.
 
@@ -34,9 +34,10 @@ Atualmente curso **Engenharia de Software** e concentro meus estudos em:
 
 ---
 
-## 🛠️ Tecnologias que utilizo
+## | Tecnologias 
 
-### 🔹 Backend
+
+### | Backend
 <p>
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
@@ -51,7 +52,7 @@ Atualmente curso **Engenharia de Software** e concentro meus estudos em:
 
 ---
 
-### 🔹 Banco de Dados
+### | Banco de Dados
 <p>
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
@@ -62,7 +63,7 @@ Atualmente curso **Engenharia de Software** e concentro meus estudos em:
 
 ---
 
-### 🔹 Ferramentas
+### | Ferramentas
 <p>
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
@@ -76,9 +77,9 @@ Atualmente curso **Engenharia de Software** e concentro meus estudos em:
 
 ---
 
-## 📌 Projeto em Destaque
+## | Projeto em Destaque
 
-### 🔐 JWT Security API
+### | JWT Security API
 
 API RESTful de autenticação stateless desenvolvida com:
 
@@ -92,19 +93,26 @@ Projeto focado em segurança e estrutura utilizada no mercado.
 
 ---
 
-## 📊 Estatísticas GitHub
+## | Tecnologias Principais
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rian-dev-cod&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" />
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rian-dev-cod&layout=compact&theme=tokyonight)
+<p align="center">
+  <strong>Java • Maven • Docker • Git • SQL</strong>
+</p>
 
 ---
 
-## 📬 Contato
+##  Contato
 
-- 📧 riancosta816@gmail.com  
-- 🔗 https://www.linkedin.com/in/rian-dev-/  
-- 💻 https://github.com/Rian-dev-cod  
+-  riancosta816@gmail.com  
+-  https://www.linkedin.com/in/rian-dev-/  
 
 ---
 
