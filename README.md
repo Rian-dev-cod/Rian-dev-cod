@@ -1,102 +1,113 @@
-<h1 align="center">👋 Olá! Eu sou o Rian Arruda Costa</h1>
+
+# 👋 Rian Arruda Costa
 
 <p align="center">
-  <strong>Desenvolvedor Java • Backend • APIs • Focado em Mercado</strong><br>
-  Campos Belos - GO • <a href="mailto:riancosta816@gmail.com">riancosta816@gmail.com</a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%7C+APIs+REST;Segurança+com+JWT+e+Spring+Security" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Rian-dev-cod">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rian-dev-/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:riancosta816@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
-Sou desenvolvedor Java com foco no que o mercado realmente usa: APIs organizadas, tecnologias modernas, boas práticas, arquitetura limpa e desenvolvimento backend robusto. Estudo Engenharia de Software e aprimoro constantemente minhas habilidades para atuar em equipes profissionais e construir soluções escaláveis e de alta qualidade.
-Meu objetivo é me tornar um desenvolvedor completo, com código limpo, organizado e alinhado com padrões adotados pelas empresas.
+## 🚀 Sobre Mim
+
+Sou desenvolvedor backend com foco em **Java e Spring Boot**, desenvolvendo APIs REST seguras, organizadas e alinhadas com boas práticas de mercado.
+
+Atualmente curso **Engenharia de Software** e concentro meus estudos em:
+
+- Arquitetura em camadas (Controller → Service → Repository)  
+- Autenticação e autorização com JWT  
+- Segurança com Spring Security  
+- Modelagem relacional com JPA/Hibernate  
+- Organização de código com DTO Pattern e princípios SOLID  
+- Containerização com Docker  
 
 ---
 
-## 🚀 Linguagens que utilizo
+## 🛠️ Tecnologias que utilizo
 
-<p align="left">
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
-  &nbsp;&nbsp;
-</p>
-
----
-
-## 🧰 Ferramentas e Tecnologias
-
-### 🟦 Backend
+### 🔹 Backend
 <p>
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot"/>
-  &nbsp;&nbsp;
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg"/>
 </p>
 
-### 🟧 Banco de Dados
-<p>
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
-  &nbsp;&nbsp;
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/>
-</p>
-
-### 🟩 DevOps & Ferramentas
-<p>
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"/>
-  &nbsp;&nbsp;
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
-  &nbsp;&nbsp;
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
-  &nbsp;&nbsp;
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven"/>
-</p>
+- Java 17+  
+- Spring Boot 3  
+- Spring Security  
+- JPA / Hibernate  
+- Maven  
 
 ---
 
-## ⚡ Minhas Skills — Estatística do que eu sei
-
-<p align="left">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/> &nbsp;
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring"/> &nbsp;
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgres"/> &nbsp;
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/> &nbsp;
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"/> &nbsp;
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/> &nbsp;
+### 🔹 Banco de Dados
+<p>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 </p>
 
-| Linguagem / Ferramenta | Nível |
-|---|---:|
-| ☕ Java               | ![Java](https://img.shields.io/badge/Java-90%25-brightgreen) |
-| 🍃 Spring Boot       | ![Spring](https://img.shields.io/badge/Spring%20Boot-85%25-brightgreen) |
-| 🐘 PostgreSQL        | ![Postgres](https://img.shields.io/badge/PostgreSQL-85%25-green) |
-| 🗄️ MySQL             | ![MySQL](https://img.shields.io/badge/MySQL-85%25-yellowgreen) |
-| 🐳 Docker            | ![Docker](https://img.shields.io/badge/Docker-70%25-yellow) |
-| 🔧 Maven             | ![Maven](https://img.shields.io/badge/Maven-70%25-yellowgreen) |
-| 🧪 JUnit / Mockito   | ![Tests](https://img.shields.io/badge/Testing-65%25-yellow) |
-| 🔀 Git / GitHub      | ![Git](https://img.shields.io/badge/Git-75%25-green) |
-
+- PostgreSQL  
+- MySQL  
 
 ---
 
-## 🎯 O que estou estudando atualmente
-- Arquitetura limpa (Clean Architecture)  
-- BOAS PRÁTICAS usadas no mercado (SOLID, DTOs, Services bem definidos)  
-- Testes automatizados com JUnit & Mockito  
-- Otimização de APIs e padrões de projeto para backend  
+### 🔹 Ferramentas
+<p>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+</p>
+
+- Docker  
+- Git & GitHub  
+- IntelliJ IDEA  
+- Postman  
+
+---
+
+## 📌 Projeto em Destaque
+
+### 🔐 JWT Security API
+
+API RESTful de autenticação stateless desenvolvida com:
+
+- Geração de Access Token e Refresh Token  
+- Filtro JWT customizado  
+- Criptografia de senha com PBKDF2  
+- Tratamento global de exceções  
+- Arquitetura organizada e escalável  
+
+Projeto focado em segurança e estrutura utilizada no mercado.
+
+---
+
+## 📊 Estatísticas GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rian-dev-cod&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rian-dev-cod&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📬 Contato
-<p>
-  <a href="mailto:riancosta816@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Rian-dev-cod">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+
+- 📧 riancosta816@gmail.com  
+- 🔗 https://www.linkedin.com/in/rian-dev-/  
+- 💻 https://github.com/Rian-dev-cod  
 
 ---
 
-<p align="center"><strong>Construindo um perfil sólido, alinhado ao mercado e com foco em evolução constante.</strong></p>
-
-
-
+<p align="center">
+  <strong>Backend focado em segurança, organização e evolução constante.</strong>
+</p>
