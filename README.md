@@ -79,17 +79,10 @@ Atualmente curso **Engenharia de Software** e concentro meus estudos em:
 
 ## | Projeto em Destaque
 
-### | JWT Security API
+### | Digital Bank API
 
-API RESTful de autenticação stateless desenvolvida com:
-
-- Geração de Access Token e Refresh Token  
-- Filtro JWT customizado  
-- Criptografia de senha com PBKDF2  
-- Tratamento global de exceções  
-- Arquitetura organizada e escalável  
-
-Projeto focado em segurança e estrutura utilizada no mercado.
+API REST de um Banco Digital desenvolvida com Java + Spring Boot + Oracle Database, com autenticação JWT, controle de usuários, contas bancárias e operações financeiras como depósito, saque e transferência.
+Este projeto foi desenvolvido com o objetivo de aprofundar conhecimentos em backend Java, arquitetura de APIs REST e segurança com Spring Security.
 
 ---
 
@@ -119,3 +112,4 @@ Projeto focado em segurança e estrutura utilizada no mercado.
 <p align="center">
   <strong>Backend focado em segurança, organização e evolução constante.</strong>
 </p>
+
