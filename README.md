@@ -1,8 +1,7 @@
-
-# | Rian Arruda Costa
+# 👨‍💻 Rian Arruda Costa
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%7C+APIs+REST;Segurança+com+JWT+e+Spring+Security" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%7C+APIs+REST;Microsserviços+%7C+Docker+%7C+AWS" />
 </p>
 
 <p align="center">
@@ -19,25 +18,39 @@
 
 ---
 
-## | Sobre Mim
+## 🚀 Sobre Mim
 
-Sou desenvolvedor backend com foco em **Java e Spring Boot**, desenvolvendo APIs REST seguras, organizadas e alinhadas com boas práticas de mercado.
+Desenvolvedor Back-end com foco em **Java e Spring Boot**, especializado no desenvolvimento de **APIs REST escaláveis, seguras e bem estruturadas**.
 
-Atualmente curso **Engenharia de Software** e concentro meus estudos em:
+Atualmente curso **Engenharia de Software** e aplico na prática conceitos de:
 
 - Arquitetura em camadas (Controller → Service → Repository)  
-- Autenticação e autorização com JWT  
-- Segurança com Spring Security  
-- Modelagem relacional com JPA/Hibernate  
-- Organização de código com DTO Pattern e princípios SOLID  
+- Microsserviços (estrutura e boas práticas)  
+- Segurança com JWT e Spring Security  
+- Modelagem com JPA/Hibernate  
+- Integração de sistemas e Webhooks  
 - Containerização com Docker  
+- Cloud com AWS (S3, Lambda, API Gateway)  
 
 ---
 
-## | Tecnologias 
+## 🧩 Habilidades Técnicas
 
+✔ Java + Spring (Boot, Security, MVC)  
+✔ Desenvolvimento de APIs REST e integração de sistemas  
+✔ Arquitetura em camadas e microsserviços  
+✔ Segurança com JWT e controle de acesso  
+✔ Banco de dados relacional (PostgreSQL, MySQL)  
+✔ Docker e conceitos de CI/CD  
+✔ AWS (S3, Lambda, API Gateway)  
+✔ Servidores de aplicação (Tomcat, JBoss, WildFly)  
+✔ Boas práticas: SOLID, Clean Code, Design Patterns  
 
-### | Backend
+---
+
+## 🧠 Stack Principal
+
+### 🔹 Backend
 <p>
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
@@ -45,14 +58,14 @@ Atualmente curso **Engenharia de Software** e concentro meus estudos em:
 </p>
 
 - Java 17+  
-- Spring Boot 3  
+- Spring Boot  
 - Spring Security  
 - JPA / Hibernate  
-- Maven  
+- APIs REST  
 
 ---
 
-### | Banco de Dados
+### 🗄️ Banco de Dados
 <p>
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
@@ -63,7 +76,7 @@ Atualmente curso **Engenharia de Software** e concentro meus estudos em:
 
 ---
 
-### | Ferramentas
+### ☁️ DevOps & Cloud
 <p>
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
@@ -71,45 +84,47 @@ Atualmente curso **Engenharia de Software** e concentro meus estudos em:
 </p>
 
 - Docker  
+- AWS (S3, Lambda, API Gateway)  
 - Git & GitHub  
-- IntelliJ IDEA  
-- Postman  
 
 ---
 
-## | Projeto em Destaque
+## 🏗️ Projeto em Destaque
 
-### | Digital Bank API
+### 🎬 Cinema API
+🔗 https://github.com/Rian-dev-cod/cinema-system-api
 
-API REST de um Banco Digital desenvolvida com Java + Spring Boot + Oracle Database, com autenticação JWT, controle de usuários, contas bancárias e operações financeiras como depósito, saque e transferência.
-Este projeto foi desenvolvido com o objetivo de aprofundar conhecimentos em backend Java, arquitetura de APIs REST e segurança com Spring Security.
+API REST completa para gerenciamento de cinema com foco em escalabilidade e integração de sistemas.
+
+**Principais funcionalidades:**
+- Autenticação e autorização com JWT  
+- Integração com pagamentos (Stripe + Webhooks)  
+- Controle de usuários, sessões e ingressos  
+- Modelagem com PostgreSQL  
+- Arquitetura em camadas  
+- Tratamento de eventos assíncronos  
+- Estrutura preparada para microsserviços  
 
 ---
 
-## | Tecnologias Principais
+## 💳 Projeto Complementar
+
+### Digital Bank API
+🔗 https://github.com/Rian-dev-cod/digital-bank-api
+
+- API de banco digital com operações financeiras  
+- Implementação de regras de negócio  
+- Autenticação e segurança com JWT  
+
+---
+
+## 📫 Contato
+
+- 📧 riancosta816@gmail.com  
+- 🔗 https://www.linkedin.com/in/rian-dev-/  
+
+---
 
 <p align="center">
-  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" />
-  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <strong>Foco em backend, arquitetura e construção de sistemas escaláveis.</strong>
 </p>
-
-<p align="center">
-  <strong>Java • Maven • Docker • Git • SQL</strong>
-</p>
-
----
-
-##  Contato
-
--  riancosta816@gmail.com  
--  https://www.linkedin.com/in/rian-dev-/  
-
----
-
-<p align="center">
-  <strong>Backend focado em segurança, organização e evolução constante.</strong>
-</p>
-
