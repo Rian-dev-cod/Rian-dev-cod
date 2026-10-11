@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/rian-dev-/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://www.youtube.com/@Rian-Dev-JAVA">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
   <a href="mailto:riancosta816@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -23,6 +26,7 @@ Desenvolvedor **Fullstack** com base em **Java e Spring Boot**, focado em constr
 - Praticando arquitetura em camadas, segurança com JWT, JPA/Hibernate e integrações via Webhooks
 - No front, construo interfaces em **React e Next.js** com foco em acessibilidade
 - Containerizo meus projetos com **Docker** e exploro serviços da **AWS**
+- Compartilho meus estudos de Java no [YouTube](https://www.youtube.com/@Rian-Dev-JAVA)
 - Em busca da minha próxima oportunidade como desenvolvedor Java
 
 ---
@@ -110,7 +114,8 @@ API de banco digital com operações financeiras, regras de negócio e seguranç
 
 <p align="center">
   <a href="mailto:riancosta816@gmail.com">riancosta816@gmail.com</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/rian-dev-/">linkedin.com/in/rian-dev-</a>
+  <a href="https://www.linkedin.com/in/rian-dev-/">linkedin.com/in/rian-dev-</a> &nbsp;·&nbsp;
+  <a href="https://www.youtube.com/@Rian-Dev-JAVA">youtube.com/@Rian-Dev-JAVA</a>
 </p>
 
 <p align="center">
