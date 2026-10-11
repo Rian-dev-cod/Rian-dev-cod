@@ -14,7 +14,6 @@
   <a href="mailto:riancosta816@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Rian-dev-cod&style=for-the-badge&color=00B8C4&label=VISITAS"/>
 </p>
 
 ---
