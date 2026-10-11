@@ -1,7 +1,7 @@
-# 👨‍💻 Rian Arruda Costa
+<h1 align="center">👨‍💻 Rian Arruda Costa</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Desenvolvedor+Fullstack;Java+%7C+Spring+Boot+%7C+APIs+REST;Next.js+%7C+React+%7C+TypeScript;Microsservi%C3%A7os+%7C+Docker+%7C+AWS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Desenvolvedor+Fullstack;Java+%7C+Spring+Boot+%7C+APIs+REST;Next.js+%7C+React+%7C+TypeScript;Docker+%7C+AWS+%7C+PostgreSQL" />
 </p>
 
 <p align="center">
@@ -14,167 +14,93 @@
   <a href="mailto:riancosta816@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Rian-dev-cod&style=for-the-badge&color=00B8C4&label=VISITAS"/>
 </p>
 
 ---
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor **Fullstack** com base sólida em **Java e Spring Boot**, especializado em **APIs REST escaláveis, seguras e bem estruturadas** — e capaz de entregar o produto inteiro, da interface ao banco de dados.
+Desenvolvedor **Fullstack** com base em **Java e Spring Boot**, focado em construir **APIs REST seguras e bem estruturadas** — e em entregar o produto inteiro, da interface ao banco de dados.
 
-Atualmente curso **Engenharia de Software** e aplico na prática conceitos de arquitetura em camadas, microsserviços, segurança com JWT, modelagem com JPA/Hibernate, integração de sistemas via Webhooks, interfaces em React e Next.js, containerização com Docker e serviços de nuvem na AWS.
-
----
-
-## 🧩 Habilidades Técnicas
-
-**Back-end**
-
-✔ Java + Spring (Boot, Security, MVC)
-✔ Desenvolvimento de APIs REST e integração de sistemas
-✔ Arquitetura em camadas e microsserviços
-✔ Segurança com JWT e controle de acesso
-✔ Servidores de aplicação (Tomcat, JBoss, WildFly)
-
-**Front-end**
-
-✔ TypeScript e JavaScript (ES6+)
-✔ React e Next.js (App Router, SSR)
-✔ HTML5, CSS3 e Tailwind CSS
-✔ Interfaces responsivas e acessíveis
-✔ Consumo e integração de APIs REST
-
-**Dados e infraestrutura**
-
-✔ Banco de dados relacional (PostgreSQL, MySQL)
-✔ Docker e conceitos de CI/CD
-✔ AWS (S3, Lambda, API Gateway)
-✔ Boas práticas: SOLID, Clean Code, Design Patterns
+- 🎓 Cursando **Engenharia de Software**
+- 🔭 Praticando arquitetura em camadas, segurança com JWT, JPA/Hibernate e integrações via Webhooks
+- 🎨 No front, construo interfaces em **React e Next.js** com foco em acessibilidade
+- 🐳 Containerizo meus projetos com **Docker** e exploro serviços da **AWS**
+- 🎯 Em busca da minha próxima oportunidade como desenvolvedor Java
 
 ---
 
-## 🧠 Stack Principal
+## 🧠 Stack
 
-### 🔹 Backend
-
-<p>
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg"/>
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql&perline=8" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&perline=8" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux&perline=8" />
 </p>
 
-- Java 17+
-- Spring Boot
-- Spring Security
-- JPA / Hibernate
-- APIs REST
+| Área | Tecnologias |
+|------|-------------|
+| **Back-end** | Java 17+, Spring Boot, Spring Security, JPA/Hibernate, APIs REST, JWT |
+| **Front-end** | TypeScript, React, Next.js (App Router, SSR), Tailwind CSS |
+| **Dados** | PostgreSQL, MySQL |
+| **DevOps & Cloud** | Docker, AWS (S3, Lambda, API Gateway), Git, conceitos de CI/CD |
+| **Boas práticas** | SOLID, Clean Code, Design Patterns, arquitetura em camadas |
 
 ---
 
-### 🎨 Front-end
+## 🏗️ Projetos
 
-<p>
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
-  <img height="45" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-</p>
+### 🎬 [Cinema API](https://github.com/Rian-dev-cod/cinema-system-api) — projeto em destaque
 
-- TypeScript / JavaScript
-- React
-- Next.js
-- Tailwind CSS
-- HTML5 e CSS3
+API REST para gerenciamento de cinema com foco em escalabilidade e integração de sistemas.
 
----
+- 🔐 Autenticação e autorização com JWT
+- 💳 Pagamentos com Stripe + Webhooks e tratamento de eventos assíncronos
+- 🎟️ Controle de usuários, sessões e ingressos
+- 🧱 Arquitetura em camadas, preparada para microsserviços
 
-### 🗄️ Banco de Dados
+`Java` `Spring Boot` `PostgreSQL` `Stripe` `JWT`
 
-<p>
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-</p>
+### 🏥 [CheckMed](https://github.com/Rian-dev-cod/checkmed) — totem de check-in de pacientes
 
-- PostgreSQL
-- MySQL
+Autoatendimento para o paciente confirmar presença na consulta sem passar pela recepção, substituindo o lançamento manual no sistema do convênio.
 
----
-
-### ☁️ DevOps & Cloud
-
-<p>
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-</p>
-
-- Docker
-- AWS (S3, Lambda, API Gateway)
-- Git & GitHub
-
----
-
-## 🏗️ Projeto em Destaque
-
-### 🎬 Cinema API
-
-🔗 https://github.com/Rian-dev-cod/cinema-system-api
-
-API REST completa para gerenciamento de cinema com foco em escalabilidade e integração de sistemas.
-
-**Principais funcionalidades:**
-
-- Autenticação e autorização com JWT
-- Integração com pagamentos (Stripe + Webhooks)
-- Controle de usuários, sessões e ingressos
-- Modelagem com PostgreSQL
-- Arquitetura em camadas
-- Tratamento de eventos assíncronos
-- Estrutura preparada para microsserviços
-
----
-
-## 📂 Outros Projetos
-
-### 🏥 CheckMed — Totem de check-in de pacientes
-
-🔗 https://github.com/Rian-dev-cod/checkmed
-
-Sistema de autoatendimento que permite ao paciente confirmar a presença na consulta sem passar pela recepção, substituindo o lançamento manual feito pela secretária no sistema do convênio.
-
-- Interface desenhada para pacientes idosos: tipografia ampliada, alvos de toque generosos, alto contraste e uma decisão por tela
-- Um único código atende o totem (tela touch) e o celular do paciente
-- Fluxo de contingência por captura de documentos quando o token por SMS não chega
-- Painel administrativo com controle da sessão do convênio
-- Containerizado com Docker, preparado para rodar em Raspberry Pi em modo quiosque
+- 👴 Interface pensada para idosos: fonte ampliada, alvos de toque grandes, alto contraste e uma decisão por tela
+- 📱 Um único código atende o totem touch e o celular do paciente
+- 📄 Fluxo de contingência por captura de documentos quando o SMS não chega
+- 🍓 Containerizado com Docker, roda em Raspberry Pi em modo quiosque
 
 `Next.js` `TypeScript` `Tailwind CSS` `Docker`
 
-### 💳 Digital Bank API
+### 💳 [Digital Bank API](https://github.com/Rian-dev-cod/digital-bank-api)
 
-🔗 https://github.com/Rian-dev-cod/digital-bank-api
-
-- API de banco digital com operações financeiras
-- Implementação de regras de negócio
-- Autenticação e segurança com JWT
+API de banco digital com operações financeiras, regras de negócio e segurança com JWT.
 
 `Java` `Spring Boot` `JWT` `PostgreSQL`
 
 ---
 
+## 🐍 Minhas Contribuições
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rian-dev-cod/Rian-dev-cod/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rian-dev-cod/Rian-dev-cod/output/github-snake.svg" />
+    <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/Rian-dev-cod/Rian-dev-cod/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
 
 ## 📫 Contato
 
-- 📧 riancosta816@gmail.com
-- 🔗 https://www.linkedin.com/in/rian-dev-/
-
----
+<p align="center">
+  📧 <a href="mailto:riancosta816@gmail.com">riancosta816@gmail.com</a> &nbsp;•&nbsp;
+  🔗 <a href="https://www.linkedin.com/in/rian-dev-/">linkedin.com/in/rian-dev-</a>
+</p>
 
 <p align="center">
   <strong>Fullstack com raiz em backend: arquitetura, integração e sistemas escaláveis.</strong>
