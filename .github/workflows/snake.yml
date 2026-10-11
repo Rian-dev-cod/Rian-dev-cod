@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # atualiza a cada 12 horas
-  workflow_dispatch:          # permite rodar manualmente na aba Actions
+    - cron: "0 */12 * * *"
+  workflow_dispatch:   
   push:
     branches:
       - main
