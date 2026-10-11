@@ -30,18 +30,25 @@ Desenvolvedor **Fullstack** com base em **Java e Spring Boot**, focado em constr
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,mongodb&perline=8" />
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&perline=8" />
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux&perline=8" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge"/>
 </p>
 
 | Área | Tecnologias |
 |------|-------------|
 | **Back-end** | Java 17+, Spring Boot, Spring Security, JPA/Hibernate, APIs REST, JWT |
 | **Front-end** | TypeScript, React, Next.js (App Router, SSR), Tailwind CSS |
-| **Dados** | PostgreSQL, MySQL |
+| **Bancos relacionais** | PostgreSQL, MySQL, MariaDB, Oracle |
+| **NoSQL** | MongoDB |
+| **Testes** | JUnit 5, Mockito |
 | **DevOps & Cloud** | Docker, AWS (S3, Lambda, API Gateway), Git, conceitos de CI/CD |
 | **Boas práticas** | SOLID, Clean Code, Design Patterns, arquitetura em camadas |
 
